@@ -104,3 +104,20 @@ li a:hover {
   background-color: #696969;
   
 }
+
+
+@media screen and (min-width: 300px) and (max-width: 650px) {
+  iframe {
+    transition: all 0.35s ease-in-out;
+    width: 400px;
+  }
+
+}
+
+@media screen and (min-width: 650px) and (max-width: 1000px) {
+  iframe {
+    transition: all 0.35s ease-in-out;
+    width: 600px;
+  }
+
+}
