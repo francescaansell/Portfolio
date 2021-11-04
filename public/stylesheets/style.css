@@ -103,6 +103,11 @@ iframe {
   text-decoration: none;
 }
 
+ul {
+  padding-top: 1px; 
+  margin-top: 1px; 
+}
+
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
